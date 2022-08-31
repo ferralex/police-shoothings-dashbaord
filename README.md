@@ -13,3 +13,5 @@ For further context, check out this article from the Washington Post: https://ww
 You can create a dashboard with any platform you choose (Tableau, Power BI, Excel, etc.) 📊 </pre>
 <!-- /wp:verse -->
 
+![Police Shootings Dashboard](https://raw.githubusercontent.com/ferralex/police-shoothings-dashbaord/main/police_shoothings_dashboard.png)
+
